@@ -1,3 +1,10 @@
 AppData/
 *.log
 *.csv
+*.txt
+*.xlsx
+*.docx
+.ipynb_checkpoints/
+*.txt
+*.xlsx
+*.docx
